@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "HYPER-O8Ps.aternos.me",
+    "port": 16499,
     "version": "",
     "try-creative": false
   },
